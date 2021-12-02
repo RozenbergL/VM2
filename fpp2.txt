@@ -1,0 +1,8 @@
+input 101
+input 102
+set 0 103
+ost 101 102
+swap 101 102
+cmp 103 102
+jmp -9
+output 101
